@@ -1,0 +1,16 @@
+{
+    "name": "smirnovw/light-middleware-dispatcher",
+    "description": "This is simple example of middleware dispatcher.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Smirnov Vladislav",
+            "email": "mr.bikus@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+            "classmap": ["src/"]
+    }
+}
