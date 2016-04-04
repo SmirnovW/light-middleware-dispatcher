@@ -9,8 +9,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "symfony/http-foundation": "^3.0"
+    },
     "autoload": {
-            "classmap": ["src/"]
+        "psr-4": {
+            "LightMiddlewareDispatcher\\": "src/"
+        }
     }
 }
