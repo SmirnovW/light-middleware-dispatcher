@@ -8,7 +8,7 @@
             "email": "mr.bikus@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "symfony/http-foundation": "^3.0"
     },
